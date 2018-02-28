@@ -4,8 +4,8 @@
 * git clone https://github.com/majidlahmidi/apache-php7-d8.git
 * cd apache-php7-d8
 * docker-compose up -d
-* visit http://localhost:81
-* For phpmyamdin visite http://localhost:8082
+* visit http://localhost:8081
+* For phpmyamdin visit http://localhost:8082
 
 
 
