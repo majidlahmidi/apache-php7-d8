@@ -5,7 +5,7 @@
 * cd apache-php7-d8
 * docker-compose up -d
 * visit http://localhost:8081
-* For phpmyamdin visit http://localhost:8082
+* For phpmyadmin visit http://localhost:8082
 
 
 
